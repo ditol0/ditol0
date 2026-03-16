@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/13sT.gif" width="600">
+  <img src="my-turn-anime.gif" width="600">
 </p>
 
 ### Hi there 👋
