@@ -58,7 +58,7 @@ I build **web applications, backend systems, and mobile apps.**
 ---
 
 <div align="center">
-
+<img align="right" src="tenor.gif" width="180">
 ⭐ **Always building something new**
 
 </div>
