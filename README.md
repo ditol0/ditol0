@@ -1,31 +1,42 @@
-<img src="tenor.gif" width="220" align="right">
+<div align="center">
 
-# Hi
-
-I'm **Khalid**
+# Hi 👋 I'm Khalid
 
 💻 **Web & App Developer**
 
-I enjoy building **web applications, backend systems, and mobile apps.**
+I build **web applications, backend systems, and mobile apps.**
+
+</div>
+
+---
+
+<img align="right" src="my-turn-anime.gif" width="180">
+
+### 👨‍💻 About Me
+
+* 💡 Passionate about **building real systems**
+* 🧠 Currently learning **advanced backend development**
+* 🚀 Building projects using **Laravel & Flutter**
+* 🗄️ Working with **SQL & PL/SQL databases**
 
 ---
 
 ## 🧠 Languages
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![PLSQL](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
+![PLSQL](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ---
 
 ## ⚙️ Frameworks & Tools
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
 
 ---
 
@@ -38,11 +49,16 @@ I enjoy building **web applications, backend systems, and mobile apps.**
 
 ---
 
-<details>
-<summary>🏆 Github Stats</summary>
+## 📊 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&username=YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
 
-</details>
+---
+
+<div align="center">
+
+⭐ **Always building something new**
+
+</div>
