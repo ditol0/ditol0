@@ -10,7 +10,7 @@ I build **web applications, backend systems, and mobile apps.**
 
 ---
 
-<img align="right" src="my-turn-anime.gif" width="180">
+<img align="right" src="tenor.gif" width="180">
 
 ### 👨‍💻 About Me
 
@@ -58,7 +58,7 @@ I build **web applications, backend systems, and mobile apps.**
 ---
 
 <div align="center">
-<img align="right" src="tenor.gif" width="180">
+
 ⭐ **Always building something new**
 
 </div>
