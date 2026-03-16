@@ -1,40 +1,48 @@
 ### Hi there 👋
 
-I'm **Khalid Al-Dhubayani** (21 y.o) ! 😎
+I'm **Khalid** 😎
 
-I'm a **Web & App Developer** who enjoys building systems, apps, and games from scratch.
+💻 **Web & App Developer**
 
-:page_with_curl: I'm currently working with: <br><br>
+I enjoy building **web systems, applications, and backend services**.
 
+---
+
+:page_with_curl: Technologies I work with: <br><br>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge\&logo=unity\&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge\&logo=godot-engine)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
+![PLSQL](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
-:star: Here are some projects that I'm working on:
+---
 
-* College Events App (Flutter)
-* Digital Products Store (PHP & Laravel)
-* HEXK Website
-* TikTok / Instagram Downloader API
-* Roguelike 2D Game (Unity)
+:star: What I build
+
+* Web Applications using **Laravel**
+* Backend APIs using **PHP**
+* Mobile Apps using **Flutter**
+* Database Systems using **SQL / PL-SQL**
+* Personal development projects
+
+---
 
 <details>
 <summary>:trophy: Github Stats</summary>
+
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&username=YOUR_USERNAME">
+
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME">
+
 </details>
 
 <br>
 
-<details>
-<summary>:bar_chart: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact">
-</details>
-
-Feel free to contact me 😄 <br><br>
-
-<a href="mailto:XxMMB22xX@gmail.com"><img src="https://img.shields.io/badge/Email-XxMMB22xX%40gmail.com-orange"></a>
+<p align="center">
+<img src="https://tenor.com/13sT.gif" width="500">
+</p>
