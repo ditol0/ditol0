@@ -2,7 +2,7 @@
   <img src="my-turn-anime.gif" width="600">
 </p>
 
-### Hi there 👋
+<h1>Hi</h1>
 
 I'm **Khalid**
 
@@ -48,3 +48,4 @@ I enjoy building **web applications, backend systems, and mobile apps.**
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME">
 
 </details>
+
