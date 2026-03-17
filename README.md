@@ -30,6 +30,8 @@ I build **web applications, backend systems, and mobile apps.**
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
