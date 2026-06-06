@@ -1,66 +1,91 @@
 <div align="center">
 
-# Hi 👋 I'm Khalid
+# 👋 Hi, I'm Khalid Al-Dhubayani
 
-💻 **Web & App Developer**
+### Full Stack Developer | Laravel & Flutter Developer
 
-I build **web applications, backend systems, and mobile apps.**
+I build scalable web applications, backend systems, APIs, and mobile applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Laravel+Developer;Flutter+Developer;Backend+Developer;Always+Learning+New+Things" />
 
 </div>
 
 ---
 
-<img align="right" src="tenor.gif" width="180">
+## 🚀 About Me
 
-### 👨‍💻 About Me
-
-* 💡 Passionate about **building real systems**
-* 🧠 Currently learning **advanced backend development**
-* 🚀 Building projects using **Laravel & Flutter**
-* 🗄️ Working with **SQL & PL/SQL databases**
-
----
-
-## 🧠 Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge\&logo=databricks\&logoColor=white)
-![PLSQL](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- 💻 Full Stack Developer focused on Backend Development
+- 🏗️ Building real-world systems using Laravel & Flutter
+- 🗄️ Experienced with SQL & PL/SQL databases
+- 📚 Currently improving my software architecture skills
+- 🎯 Passionate about turning ideas into working products
 
 ---
 
-## ⚙️ Frameworks & Tools
+## 🛠️ Tech Stack
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 What I Build
+## 🔥 Current Focus
 
-* Web Applications using **Laravel**
-* Backend APIs using **PHP**
-* Mobile Apps using **Flutter**
-* Database Systems using **SQL / PL-SQL**
+```text
+📌 Laravel Advanced Development
+📌 REST APIs
+📌 Flutter Applications
+📌 Software Architecture
+📌 Database Design
+```
 
 ---
 
-## 📊 Github Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ditol0&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditol0&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ditol0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditol0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ditol0&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 Event Management System
+A Flutter application for managing college events, reservations, and attendance tracking.
+
+### 🛒 Digital Products Store
+Laravel-based digital marketplace with payment integration and license management.
+
+### 🎯 Employee Points System
+Performance and reward tracking platform with advanced reporting features.
+
 ---
 
 <div align="center">
 
-⭐ **Always building something new**
+### ⭐ Always Building Something New
 
 </div>
